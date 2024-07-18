@@ -1,7 +1,0 @@
-2024-07-18 05:11:37.419 WARNING fixture:conftest.py:60: Process started
-2024-07-18 05:11:37.420 INFO fixture:conftest.py:61: Process ongoing..
-2024-07-18 05:11:37.422 DEBUG tests_api.utils.logger:logger.py:23: > POST https://dev.agentum.pro/backend/api/auth/get-enter-code {'method': 'POST', 'url': 'https://dev.agentum.pro/backend/api/auth/get-enter-code', 'json': {'phone': '+79603848ы71'}, 'headers': {'Accept': 'application/json'}, 'params': None, 'files': None}
-2024-07-18 05:11:37.423 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
-2024-07-18 05:11:37.661 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "POST /backend/api/auth/get-enter-code HTTP/1.1" 422 None
-2024-07-18 05:11:37.661 DEBUG tests_api.utils.logger:logger.py:27: < 422 https://dev.agentum.pro/backend/api/auth/get-enter-code {"message":"validation.phone","errors":{"phone":["validation.phone"]}}
-2024-07-18 05:11:37.665 INFO fixture:conftest.py:63: Process ended
