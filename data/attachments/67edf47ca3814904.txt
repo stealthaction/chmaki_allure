@@ -1,0 +1,7 @@
+2024-07-22 05:11:55.543 WARNING fixture:conftest.py:60: Process started
+2024-07-22 05:11:55.545 INFO fixture:conftest.py:61: Process ongoing..
+2024-07-22 05:11:55.548 DEBUG tests_api.utils.logger:logger.py:23: > POST https://dev.agentum.pro/backend/api/users/profile/avatar {'method': 'POST', 'url': 'https://dev.agentum.pro/backend/api/users/profile/avatar', 'json': None, 'headers': {'Authorization': 'Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz'}, 'params': None, 'files': {'image': <_io.BufferedReader name='data/avatar.jpg'>}}
+2024-07-22 05:11:55.550 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
+2024-07-22 05:11:56.020 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "POST /backend/api/users/profile/avatar HTTP/1.1" 201 None
+2024-07-22 05:11:56.021 DEBUG tests_api.utils.logger:logger.py:27: < 201 https://dev.agentum.pro/backend/api/users/profile/avatar {"url":"https:\/\/storage.yandexcloud.net\/pub-test\/avatar\/48\/22-07-2024-05-11-55.jpg"}
+2024-07-22 05:11:56.025 INFO fixture:conftest.py:63: Process ended
