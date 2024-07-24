@@ -1,0 +1,8 @@
+2024-07-24 16:56:47.542 WARNING fixture:conftest.py:60: Process started
+2024-07-24 16:56:47.542 INFO fixture:conftest.py:61: Process ongoing..
+2024-07-24 16:56:47.544 DEBUG tests_api.utils.logger:logger.py:23: > GET https://dev.agentum.pro/backend/api/question/questions-for-user {'method': 'GET', 'url': 'https://dev.agentum.pro/backend/api/question/questions-for-user', 'params': None, 'headers': {'Content-type': 'application/json', 'Authorization': 'Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz'}}
+2024-07-24 16:56:47.546 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
+2024-07-24 16:56:47.840 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "GET /backend/api/question/questions-for-user HTTP/1.1" 200 None
+2024-07-24 16:56:47.840 DEBUG tests_api.utils.logger:logger.py:27: < 200 https://dev.agentum.pro/backend/api/question/questions-for-user {"backendTriggerQuestions":[],"frontendTriggerQuestions":[]}
+2024-07-24 16:56:47.840 DEBUG tests_api.utils.logger:logger.py:35: curl -X GET -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Authorization: Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz' -H 'Connection: keep-alive' -H 'Content-type: application/json' -H 'User-Agent: python-requests/2.31.0' https://dev.agentum.pro/backend/api/question/questions-for-user
+2024-07-24 16:56:47.843 INFO fixture:conftest.py:63: Process ended
