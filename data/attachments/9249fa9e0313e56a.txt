@@ -1,8 +1,0 @@
-2024-07-25 05:15:27.943 WARNING fixture:conftest.py:60: Process started
-2024-07-25 05:15:27.944 INFO fixture:conftest.py:61: Process ongoing..
-2024-07-25 05:15:27.945 DEBUG tests_api.utils.logger:logger.py:23: > PATCH https://dev.agentum.pro/backend/api/notification/mark-all-as-read {'method': 'PATCH', 'url': 'https://dev.agentum.pro/backend/api/notification/mark-all-as-read', 'headers': {'Authorization': 'Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz'}, 'json': None}
-2024-07-25 05:15:27.946 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
-2024-07-25 05:15:28.243 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "PATCH /backend/api/notification/mark-all-as-read HTTP/1.1" 200 None
-2024-07-25 05:15:28.244 DEBUG tests_api.utils.logger:logger.py:27: < 200 https://dev.agentum.pro/backend/api/notification/mark-all-as-read 
-2024-07-25 05:15:28.244 DEBUG tests_api.utils.logger:logger.py:35: curl -X PATCH -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Authorization: Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz' -H 'Connection: keep-alive' -H 'Content-Length: 0' -H 'User-Agent: python-requests/2.31.0' https://dev.agentum.pro/backend/api/notification/mark-all-as-read
-2024-07-25 05:15:28.247 INFO fixture:conftest.py:63: Process ended
