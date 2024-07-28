@@ -1,0 +1,46 @@
+2024-07-28 05:10:54.343 WARNING fixture:conftest.py:60: Process started
+2024-07-28 05:10:54.358 INFO fixture:conftest.py:61: Process ongoing..
+2024-07-28 05:10:54.367 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.address`.
+2024-07-28 05:10:54.370 DEBUG faker.factory:factory.py:95: Provider `faker.providers.address` has been localized to `ru_RU`.
+2024-07-28 05:10:54.377 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.automotive`.
+2024-07-28 05:10:54.384 DEBUG faker.factory:factory.py:95: Provider `faker.providers.automotive` has been localized to `ru_RU`.
+2024-07-28 05:10:54.384 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.bank`.
+2024-07-28 05:10:54.385 DEBUG faker.factory:factory.py:95: Provider `faker.providers.bank` has been localized to `ru_RU`.
+2024-07-28 05:10:54.385 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.barcode`.
+2024-07-28 05:10:54.390 DEBUG faker.factory:factory.py:86: Specified locale `ru_RU` is not available for provider `faker.providers.barcode`. Locale reset to `en_US` for this provider.
+2024-07-28 05:10:54.390 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.color`.
+2024-07-28 05:10:54.391 DEBUG faker.factory:factory.py:95: Provider `faker.providers.color` has been localized to `ru_RU`.
+2024-07-28 05:10:54.391 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.company`.
+2024-07-28 05:10:54.393 DEBUG faker.factory:factory.py:95: Provider `faker.providers.company` has been localized to `ru_RU`.
+2024-07-28 05:10:54.393 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.credit_card`.
+2024-07-28 05:10:54.393 DEBUG faker.factory:factory.py:95: Provider `faker.providers.credit_card` has been localized to `ru_RU`.
+2024-07-28 05:10:54.394 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.currency`.
+2024-07-28 05:10:54.401 DEBUG faker.factory:factory.py:95: Provider `faker.providers.currency` has been localized to `ru_RU`.
+2024-07-28 05:10:54.401 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.date_time`.
+2024-07-28 05:10:54.403 DEBUG faker.factory:factory.py:95: Provider `faker.providers.date_time` has been localized to `ru_RU`.
+2024-07-28 05:10:54.403 DEBUG faker.factory:factory.py:106: Provider `faker.providers.emoji` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-07-28 05:10:54.403 DEBUG faker.factory:factory.py:106: Provider `faker.providers.file` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-07-28 05:10:54.403 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.geo`.
+2024-07-28 05:10:54.404 DEBUG faker.factory:factory.py:86: Specified locale `ru_RU` is not available for provider `faker.providers.geo`. Locale reset to `en_US` for this provider.
+2024-07-28 05:10:54.404 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.internet`.
+2024-07-28 05:10:54.406 DEBUG faker.factory:factory.py:95: Provider `faker.providers.internet` has been localized to `ru_RU`.
+2024-07-28 05:10:54.414 DEBUG faker.factory:factory.py:106: Provider `faker.providers.isbn` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-07-28 05:10:54.415 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.job`.
+2024-07-28 05:10:54.416 DEBUG faker.factory:factory.py:95: Provider `faker.providers.job` has been localized to `ru_RU`.
+2024-07-28 05:10:54.416 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.lorem`.
+2024-07-28 05:10:54.417 DEBUG faker.factory:factory.py:95: Provider `faker.providers.lorem` has been localized to `ru_RU`.
+2024-07-28 05:10:54.418 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.misc`.
+2024-07-28 05:10:54.418 DEBUG faker.factory:factory.py:86: Specified locale `ru_RU` is not available for provider `faker.providers.misc`. Locale reset to `en_US` for this provider.
+2024-07-28 05:10:54.418 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.passport`.
+2024-07-28 05:10:54.419 DEBUG faker.factory:factory.py:86: Specified locale `ru_RU` is not available for provider `faker.providers.passport`. Locale reset to `en_US` for this provider.
+2024-07-28 05:10:54.419 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.person`.
+2024-07-28 05:10:54.421 DEBUG faker.factory:factory.py:95: Provider `faker.providers.person` has been localized to `ru_RU`.
+2024-07-28 05:10:54.422 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.phone_number`.
+2024-07-28 05:10:54.432 DEBUG faker.factory:factory.py:95: Provider `faker.providers.phone_number` has been localized to `ru_RU`.
+2024-07-28 05:10:54.432 DEBUG faker.factory:factory.py:106: Provider `faker.providers.profile` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-07-28 05:10:54.432 DEBUG faker.factory:factory.py:106: Provider `faker.providers.python` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-07-28 05:10:54.432 DEBUG faker.factory:factory.py:106: Provider `faker.providers.sbn` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-07-28 05:10:54.433 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.ssn`.
+2024-07-28 05:10:54.439 DEBUG faker.factory:factory.py:95: Provider `faker.providers.ssn` has been localized to `ru_RU`.
+2024-07-28 05:10:54.440 DEBUG faker.factory:factory.py:106: Provider `faker.providers.user_agent` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-07-28 05:11:07.981 INFO fixture:conftest.py:63: Process ended
