@@ -1,0 +1,56 @@
+2024-07-30 05:14:52.571 WARNING fixture:conftest.py:60: Process started
+2024-07-30 05:14:52.572 INFO fixture:conftest.py:61: Process ongoing..
+2024-07-30 05:14:52.574 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.address`.
+2024-07-30 05:14:52.576 DEBUG faker.factory:factory.py:95: Provider `faker.providers.address` has been localized to `en_US`.
+2024-07-30 05:14:52.576 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.automotive`.
+2024-07-30 05:14:52.577 DEBUG faker.factory:factory.py:95: Provider `faker.providers.automotive` has been localized to `en_US`.
+2024-07-30 05:14:52.577 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.bank`.
+2024-07-30 05:14:52.581 DEBUG faker.factory:factory.py:86: Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2024-07-30 05:14:52.582 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.barcode`.
+2024-07-30 05:14:52.582 DEBUG faker.factory:factory.py:95: Provider `faker.providers.barcode` has been localized to `en_US`.
+2024-07-30 05:14:52.582 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.color`.
+2024-07-30 05:14:52.583 DEBUG faker.factory:factory.py:95: Provider `faker.providers.color` has been localized to `en_US`.
+2024-07-30 05:14:52.584 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.company`.
+2024-07-30 05:14:52.585 DEBUG faker.factory:factory.py:95: Provider `faker.providers.company` has been localized to `en_US`.
+2024-07-30 05:14:52.587 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2024-07-30 05:14:52.588 DEBUG faker.factory:factory.py:95: Provider `faker.providers.credit_card` has been localized to `en_US`.
+2024-07-30 05:14:52.588 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.currency`.
+2024-07-30 05:14:52.589 DEBUG faker.factory:factory.py:95: Provider `faker.providers.currency` has been localized to `en_US`.
+2024-07-30 05:14:52.589 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.date_time`.
+2024-07-30 05:14:52.590 DEBUG faker.factory:factory.py:95: Provider `faker.providers.date_time` has been localized to `en_US`.
+2024-07-30 05:14:52.590 DEBUG faker.factory:factory.py:106: Provider `faker.providers.emoji` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2024-07-30 05:14:52.590 DEBUG faker.factory:factory.py:106: Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2024-07-30 05:14:52.590 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.geo`.
+2024-07-30 05:14:52.591 DEBUG faker.factory:factory.py:95: Provider `faker.providers.geo` has been localized to `en_US`.
+2024-07-30 05:14:52.591 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.internet`.
+2024-07-30 05:14:52.592 DEBUG faker.factory:factory.py:95: Provider `faker.providers.internet` has been localized to `en_US`.
+2024-07-30 05:14:52.592 DEBUG faker.factory:factory.py:106: Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2024-07-30 05:14:52.593 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.job`.
+2024-07-30 05:14:52.594 DEBUG faker.factory:factory.py:95: Provider `faker.providers.job` has been localized to `en_US`.
+2024-07-30 05:14:52.594 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.lorem`.
+2024-07-30 05:14:52.595 DEBUG faker.factory:factory.py:95: Provider `faker.providers.lorem` has been localized to `en_US`.
+2024-07-30 05:14:52.596 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.misc`.
+2024-07-30 05:14:52.596 DEBUG faker.factory:factory.py:95: Provider `faker.providers.misc` has been localized to `en_US`.
+2024-07-30 05:14:52.596 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.passport`.
+2024-07-30 05:14:52.596 DEBUG faker.factory:factory.py:95: Provider `faker.providers.passport` has been localized to `en_US`.
+2024-07-30 05:14:52.596 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.person`.
+2024-07-30 05:14:52.599 DEBUG faker.factory:factory.py:95: Provider `faker.providers.person` has been localized to `en_US`.
+2024-07-30 05:14:52.599 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2024-07-30 05:14:52.601 DEBUG faker.factory:factory.py:95: Provider `faker.providers.phone_number` has been localized to `en_US`.
+2024-07-30 05:14:52.601 DEBUG faker.factory:factory.py:106: Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2024-07-30 05:14:52.601 DEBUG faker.factory:factory.py:106: Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2024-07-30 05:14:52.602 DEBUG faker.factory:factory.py:106: Provider `faker.providers.sbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2024-07-30 05:14:52.602 DEBUG faker.factory:factory.py:76: Looking for locale `en_US` in provider `faker.providers.ssn`.
+2024-07-30 05:14:52.603 DEBUG faker.factory:factory.py:95: Provider `faker.providers.ssn` has been localized to `en_US`.
+2024-07-30 05:14:52.603 DEBUG faker.factory:factory.py:106: Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2024-07-30 05:14:52.604 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
+2024-07-30 05:14:52.923 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "POST /backend/api/deal/create-with-client HTTP/1.1" 200 None
+2024-07-30 05:14:52.923 CRITICAL root:helpers_api.py:27: ___response code- 200
+2024-07-30 05:14:52.923 CRITICAL root:helpers_api.py:28: ___response body- {'deal_id': 5452}
+2024-07-30 05:14:52.925 DEBUG tests_api.utils.logger:logger.py:23: > GET https://dev.agentum.pro/backend/api/deal/get-object-count-button/5452 {'method': 'GET', 'url': 'https://dev.agentum.pro/backend/api/deal/get-object-count-button/5452', 'params': None, 'headers': {'Authorization': 'Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz', 'Content-Type': 'application/json'}}
+2024-07-30 05:14:52.926 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
+2024-07-30 05:14:54.529 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "GET /backend/api/deal/get-object-count-button/5452 HTTP/1.1" 200 None
+2024-07-30 05:14:54.530 DEBUG tests_api.utils.logger:logger.py:27: < 200 https://dev.agentum.pro/backend/api/deal/get-object-count-button/5452 {"object_founded":46275}
+2024-07-30 05:14:54.530 DEBUG tests_api.utils.logger:logger.py:35: curl -X GET -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Authorization: Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz' -H 'Connection: keep-alive' -H 'Content-Type: application/json' -H 'User-Agent: python-requests/2.31.0' https://dev.agentum.pro/backend/api/deal/get-object-count-button/5452
+2024-07-30 05:14:54.530 INFO root:test_deals.py:154: <Response [200]>
+2024-07-30 05:14:54.532 INFO fixture:conftest.py:63: Process ended
