@@ -1,0 +1,13 @@
+2024-08-10 05:32:38.137 INFO page_ 1:conftest.py:34: new page opened: [<Page url='about:blank'>]
+2024-08-10 05:32:38.142 DEBUG tests_api.utils.logger:logger.py:23: > GET https://dev.agentum.pro/backend/api/notification/feed {'method': 'GET', 'url': 'https://dev.agentum.pro/backend/api/notification/feed', 'params': None, 'headers': {'Authorization': 'Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz'}}
+2024-08-10 05:32:38.144 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
+2024-08-10 05:32:38.234 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "GET /backend/api/notification/feed HTTP/1.1" 502 157
+2024-08-10 05:32:38.235 DEBUG tests_api.utils.logger:logger.py:27: < 502 https://dev.agentum.pro/backend/api/notification/feed <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>
+
+2024-08-10 05:32:38.235 DEBUG tests_api.utils.logger:logger.py:35: curl -X GET -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Authorization: Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz' -H 'Connection: keep-alive' -H 'User-Agent: python-requests/2.31.0' https://dev.agentum.pro/backend/api/notification/feed

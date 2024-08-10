@@ -1,0 +1,11 @@
+2024-08-10 05:32:46.670 INFO page_ 1:conftest.py:34: new page opened: [<Page url='about:blank'>]
+2024-08-10 05:32:46.675 DEBUG tests_api.utils.logger:logger.py:23: > POST https://dev.agentum.pro/backend/api/users/profile/avatar {'method': 'POST', 'url': 'https://dev.agentum.pro/backend/api/users/profile/avatar', 'json': None, 'headers': {'Authorization': 'Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz'}, 'params': None, 'files': {'image': <_io.BufferedReader name='data/avatar.jpg'>}}
+2024-08-10 05:32:46.677 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
+2024-08-10 05:32:46.785 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "POST /backend/api/users/profile/avatar HTTP/1.1" 502 157
+2024-08-10 05:32:46.786 DEBUG tests_api.utils.logger:logger.py:27: < 502 https://dev.agentum.pro/backend/api/users/profile/avatar <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0</center>
+</body>
+</html>
