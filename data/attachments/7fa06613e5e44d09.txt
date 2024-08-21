@@ -1,5 +1,0 @@
-2024-08-20 05:14:41.526 INFO page_ 1:conftest.py:34: new page opened: [<Page url='about:blank'>]
-2024-08-20 05:14:41.531 DEBUG tests_api.utils.logger:logger.py:23: > POST https://dev.agentum.pro/backend/api/auth/get-enter-code {'method': 'POST', 'url': 'https://dev.agentum.pro/backend/api/auth/get-enter-code', 'json': {'phone': '+79603848671'}, 'headers': None, 'params': None, 'files': None}
-2024-08-20 05:14:41.532 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
-2024-08-20 05:14:41.800 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "POST /backend/api/auth/get-enter-code HTTP/1.1" 200 None
-2024-08-20 05:14:41.800 DEBUG tests_api.utils.logger:logger.py:27: < 200 https://dev.agentum.pro/backend/api/auth/get-enter-code {"message":"\u041a\u043e\u0434 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u0435\u043d \u043d\u0430 \u0443\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0442\u0435\u043b\u0435\u0444\u043e\u043d","next_attempt_after_sec":60}
