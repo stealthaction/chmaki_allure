@@ -1,5 +1,0 @@
-2024-08-25 05:14:39.829 INFO page_ 1:conftest.py:34: new page opened: [<Page url='about:blank'>]
-2024-08-25 05:14:39.834 DEBUG tests_api.utils.logger:logger.py:23: > POST https://dev.agentum.pro/backend/api/auth/get-enter-code {'method': 'POST', 'url': 'https://dev.agentum.pro/backend/api/auth/get-enter-code', 'json': {'phone': ''}, 'headers': {'Accept': 'application/json'}, 'params': None, 'files': None}
-2024-08-25 05:14:39.837 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
-2024-08-25 05:14:40.065 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "POST /backend/api/auth/get-enter-code HTTP/1.1" 422 None
-2024-08-25 05:14:40.065 DEBUG tests_api.utils.logger:logger.py:27: < 422 https://dev.agentum.pro/backend/api/auth/get-enter-code {"message":"The phone field is required.","errors":{"phone":["The phone field is required."]}}
