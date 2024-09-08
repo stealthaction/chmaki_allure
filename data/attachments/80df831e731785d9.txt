@@ -1,6 +1,0 @@
-2024-09-07 05:15:12.664 INFO page_ 1:conftest.py:34: new page opened: [<Page url='about:blank'>]
-2024-09-07 05:15:12.670 DEBUG tests_api.utils.logger:logger.py:23: > DELETE https://dev.agentum.pro/backend/api/users/profile/avatar {'method': 'DELETE', 'url': 'https://dev.agentum.pro/backend/api/users/profile/avatar', 'headers': {'Authorization': 'Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz'}, 'json': None}
-2024-09-07 05:15:12.671 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
-2024-09-07 05:15:13.109 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "DELETE /backend/api/users/profile/avatar HTTP/1.1" 200 None
-2024-09-07 05:15:13.109 DEBUG tests_api.utils.logger:logger.py:27: < 200 https://dev.agentum.pro/backend/api/users/profile/avatar {"message":"\u0444\u0430\u0439\u043b \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u0443\u0434\u0430\u043b\u0435\u043d"}
-2024-09-07 05:15:13.109 DEBUG tests_api.utils.logger:logger.py:35: curl -X DELETE -H 'Accept: */*' -H 'Accept-Encoding: gzip, deflate' -H 'Authorization: Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz' -H 'Connection: keep-alive' -H 'Content-Length: 0' -H 'User-Agent: python-requests/2.31.0' https://dev.agentum.pro/backend/api/users/profile/avatar
