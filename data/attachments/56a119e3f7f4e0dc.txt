@@ -1,5 +1,0 @@
-2024-09-27 05:15:17.711 INFO page_ 1:conftest.py:34: new page opened: [<Page url='about:blank'>]
-2024-09-27 05:15:17.718 DEBUG tests_api.utils.logger:logger.py:23: > POST https://dev.agentum.pro/backend/api/users/profile/avatar {'method': 'POST', 'url': 'https://dev.agentum.pro/backend/api/users/profile/avatar', 'json': None, 'headers': {'Authorization': 'Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz'}, 'params': None, 'files': {'image': <_io.BufferedReader name='data/avatar.jpg'>}}
-2024-09-27 05:15:17.722 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
-2024-09-27 05:15:18.204 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "POST /backend/api/users/profile/avatar HTTP/1.1" 201 None
-2024-09-27 05:15:18.205 DEBUG tests_api.utils.logger:logger.py:27: < 201 https://dev.agentum.pro/backend/api/users/profile/avatar {"url":"https:\/\/storage.yandexcloud.net\/pub-test\/avatar\/48\/26-09-2024-05-15-28.jpg"}
