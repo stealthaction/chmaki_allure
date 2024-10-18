@@ -1,0 +1,49 @@
+2024-10-18 05:15:18.571 INFO page_ 1:conftest.py:34: new page opened: [<Page url='about:blank'>]
+2024-10-18 05:15:18.580 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.address`.
+2024-10-18 05:15:18.582 DEBUG faker.factory:factory.py:95: Provider `faker.providers.address` has been localized to `ru_RU`.
+2024-10-18 05:15:18.595 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.automotive`.
+2024-10-18 05:15:18.597 DEBUG faker.factory:factory.py:95: Provider `faker.providers.automotive` has been localized to `ru_RU`.
+2024-10-18 05:15:18.599 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.bank`.
+2024-10-18 05:15:18.600 DEBUG faker.factory:factory.py:95: Provider `faker.providers.bank` has been localized to `ru_RU`.
+2024-10-18 05:15:18.604 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.barcode`.
+2024-10-18 05:15:18.605 DEBUG faker.factory:factory.py:86: Specified locale `ru_RU` is not available for provider `faker.providers.barcode`. Locale reset to `en_US` for this provider.
+2024-10-18 05:15:18.605 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.color`.
+2024-10-18 05:15:18.606 DEBUG faker.factory:factory.py:95: Provider `faker.providers.color` has been localized to `ru_RU`.
+2024-10-18 05:15:18.607 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.company`.
+2024-10-18 05:15:18.608 DEBUG faker.factory:factory.py:95: Provider `faker.providers.company` has been localized to `ru_RU`.
+2024-10-18 05:15:18.615 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.credit_card`.
+2024-10-18 05:15:18.615 DEBUG faker.factory:factory.py:95: Provider `faker.providers.credit_card` has been localized to `ru_RU`.
+2024-10-18 05:15:18.623 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.currency`.
+2024-10-18 05:15:18.624 DEBUG faker.factory:factory.py:95: Provider `faker.providers.currency` has been localized to `ru_RU`.
+2024-10-18 05:15:18.627 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.date_time`.
+2024-10-18 05:15:18.628 DEBUG faker.factory:factory.py:95: Provider `faker.providers.date_time` has been localized to `ru_RU`.
+2024-10-18 05:15:18.637 DEBUG faker.factory:factory.py:106: Provider `faker.providers.emoji` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-10-18 05:15:18.637 DEBUG faker.factory:factory.py:106: Provider `faker.providers.file` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-10-18 05:15:18.637 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.geo`.
+2024-10-18 05:15:18.637 DEBUG faker.factory:factory.py:86: Specified locale `ru_RU` is not available for provider `faker.providers.geo`. Locale reset to `en_US` for this provider.
+2024-10-18 05:15:18.637 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.internet`.
+2024-10-18 05:15:18.639 DEBUG faker.factory:factory.py:95: Provider `faker.providers.internet` has been localized to `ru_RU`.
+2024-10-18 05:15:18.640 DEBUG faker.factory:factory.py:106: Provider `faker.providers.isbn` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-10-18 05:15:18.641 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.job`.
+2024-10-18 05:15:18.642 DEBUG faker.factory:factory.py:95: Provider `faker.providers.job` has been localized to `ru_RU`.
+2024-10-18 05:15:18.644 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.lorem`.
+2024-10-18 05:15:18.645 DEBUG faker.factory:factory.py:95: Provider `faker.providers.lorem` has been localized to `ru_RU`.
+2024-10-18 05:15:18.648 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.misc`.
+2024-10-18 05:15:18.648 DEBUG faker.factory:factory.py:86: Specified locale `ru_RU` is not available for provider `faker.providers.misc`. Locale reset to `en_US` for this provider.
+2024-10-18 05:15:18.648 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.passport`.
+2024-10-18 05:15:18.648 DEBUG faker.factory:factory.py:86: Specified locale `ru_RU` is not available for provider `faker.providers.passport`. Locale reset to `en_US` for this provider.
+2024-10-18 05:15:18.648 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.person`.
+2024-10-18 05:15:18.650 DEBUG faker.factory:factory.py:95: Provider `faker.providers.person` has been localized to `ru_RU`.
+2024-10-18 05:15:18.650 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.phone_number`.
+2024-10-18 05:15:18.652 DEBUG faker.factory:factory.py:95: Provider `faker.providers.phone_number` has been localized to `ru_RU`.
+2024-10-18 05:15:18.653 DEBUG faker.factory:factory.py:106: Provider `faker.providers.profile` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-10-18 05:15:18.653 DEBUG faker.factory:factory.py:106: Provider `faker.providers.python` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-10-18 05:15:18.653 DEBUG faker.factory:factory.py:106: Provider `faker.providers.sbn` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-10-18 05:15:18.653 DEBUG faker.factory:factory.py:76: Looking for locale `ru_RU` in provider `faker.providers.ssn`.
+2024-10-18 05:15:18.655 DEBUG faker.factory:factory.py:95: Provider `faker.providers.ssn` has been localized to `ru_RU`.
+2024-10-18 05:15:18.656 DEBUG faker.factory:factory.py:106: Provider `faker.providers.user_agent` does not feature localization. Specified locale `ru_RU` is not utilized for this provider.
+2024-10-18 05:15:18.656 DEBUG tests_api.utils.logger:logger.py:23: > POST https://dev.agentum.pro/backend/api/users/profile {'method': 'POST', 'url': 'https://dev.agentum.pro/backend/api/users/profile', 'json': {'first_name': 'Сергей', 'last_name': 'Дроздова', 'middle_name': 'Фадеевич', 'employment_status': 'self-employed'}, 'headers': {'Content-type': 'application/json', 'Authorization': 'Bearer YwQogs0aDUHzYIgAIN88OBaTDiKesDmAdciD9vkz'}, 'params': None, 'files': None}
+2024-10-18 05:15:18.657 DEBUG urllib3.connectionpool:connectionpool.py:1048: Starting new HTTPS connection (1): dev.agentum.pro:443
+2024-10-18 05:15:19.040 DEBUG urllib3.connectionpool:connectionpool.py:546: https://dev.agentum.pro:443 "POST /backend/api/users/profile HTTP/1.1" 200 None
+2024-10-18 05:15:19.041 DEBUG tests_api.utils.logger:logger.py:27: < 200 https://dev.agentum.pro/backend/api/users/profile {"data":{"id":48,"first_name":"\u0421\u0435\u0440\u0433\u0435\u0439","last_name":"\u0414\u0440\u043e\u0437\u0434\u043e\u0432\u0430","middle_name":"\u0424\u0430\u0434\u0435\u0435\u0432\u0438\u0447","phone":"79603848671","additional_phone":null,"employment_status":"self-employed","city":null,"avatar_url":"https:\/\/storage.yandexcloud.net\/pub-test\/avatar\/48\/17-10-2024-05-16-01.jpg","directions":[],"date_start":null,"about_myself":null,"email":null,"telegram":null,"whatsapp":null,"viber":null,"instagram":null}}
+2024-10-18 05:15:19.041 INFO root:test_view_profile.py:45: {'data': {'id': 48, 'first_name': 'Сергей', 'last_name': 'Дроздова', 'middle_name': 'Фадеевич', 'phone': '79603848671', 'additional_phone': None, 'employment_status': 'self-employed', 'city': None, 'avatar_url': 'https://storage.yandexcloud.net/pub-test/avatar/48/17-10-2024-05-16-01.jpg', 'directions': [], 'date_start': None, 'about_myself': None, 'email': None, 'telegram': None, 'whatsapp': None, 'viber': None, 'instagram': None}}
